@@ -1,6 +1,7 @@
-# Data Mining and Business Analytics
+# Corporate Sustainability Analysis of Companies
+This project was part of a 50% weightage assignment for my Data Mining and Business Analytics module. I had to chose between 2 datasets, both with same columns containing metrics about 10,000 companies, to create predictive models to mine for insights to analyse and construct recommendations to help businesses improve their sustainability score. 
 
-### About Project
+## About Project
 Build predictive models to help businesses achieve their sustainability goals. The rationale is to learn how the activities of a company, such as their carbon emissions, recycling rates, etc., influences their likelihood of achieving sustainability goals, so that recommendations can be generated through interpreting the predictive models.
 
 ### Technical Stuff
